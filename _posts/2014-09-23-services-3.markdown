@@ -1,8 +1,11 @@
 ---
+title: Google Web Fonts and<br>Font Awesome Icons
+date: 2014-09-23 00:00:00 Z
+categories:
+- Services
 layout: default
 img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
-description: |
+description: ''
 ---
+
 This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
